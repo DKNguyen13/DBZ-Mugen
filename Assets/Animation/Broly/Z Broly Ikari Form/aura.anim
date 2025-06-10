@@ -78,4 +78,11 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0
+    functionName: SoundEffectAura
+    data: 
+    objectReferenceParameter: {fileID: 8300000, guid: 5d40c0b6f2ed7ac4fa6da1f71e457a30, type: 3}
+    floatParameter: 0
+    intParameter: 8
+    messageOptions: 0

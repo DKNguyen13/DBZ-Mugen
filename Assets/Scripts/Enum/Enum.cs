@@ -9,5 +9,7 @@ public enum PlayerStateEnum
     UsingKiBall,
     UsingSmallKiBall,
     Sitting,
-    Aura
+    Aura,
+    Transform,
+    Death
 }
